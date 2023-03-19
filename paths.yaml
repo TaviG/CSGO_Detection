@@ -1,0 +1,5 @@
+train: /train
+valid: /valid
+test: /test
+images_path: /images/
+labels_path: /labels/
